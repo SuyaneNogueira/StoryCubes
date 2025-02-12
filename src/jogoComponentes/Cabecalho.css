@@ -1,0 +1,12 @@
+h2{
+    display: 'flex';
+    justify-content: 'center';
+
+}
+.botao-comecar{
+    color: rgb(138, 107, 211);
+     display: 'flex';
+      justify-content: 'center';
+      
+
+}
